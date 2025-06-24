@@ -1,0 +1,17 @@
+----- Challenge #1 -----
+Expected output
+F
+AA
+CCC
+TTTT
+OOOOO
+RRRRRR
+YYYYYYY
+
+----- Challenge #2 ------
+F******
+AA*****
+CCC****
+TTTT***
+OOOOO**
+YYYYYY*
